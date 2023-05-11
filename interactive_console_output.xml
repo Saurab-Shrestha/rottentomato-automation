@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.13 on win32)" generated="20230511 14:02:46.847" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Saurab\.vscode\extensions\robocorp.robotframework-lsp-1.10.1\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="import sqlite3">
+<msg timestamp="20230511 14:02:54.169" level="FAIL">No keyword with name 'import sqlite3' found.</msg>
+<status status="FAIL" starttime="20230511 14:02:54.169" endtime="20230511 14:02:54.169"/>
+</kw>
+<status status="PASS" starttime="20230511 14:02:47.005" endtime="20230511 14:02:57.683"/>
+</kw>
+<status status="PASS" starttime="20230511 14:02:47.002" endtime="20230511 14:02:57.684"/>
+</test>
+<status status="PASS" starttime="20230511 14:02:46.852" endtime="20230511 14:02:57.685"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
