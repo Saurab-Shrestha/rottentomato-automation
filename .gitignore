@@ -16,3 +16,7 @@ testrun/*
 .~lock*
 *.pkl
 *.log
+connect_database.py
+*.xml
+*.db
+
